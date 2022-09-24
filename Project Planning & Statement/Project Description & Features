@@ -1,4 +1,5 @@
-Statements:
+# Description:
+
 /A Web page is designed for the public where they can book tickets by seeing the available seats.
 
 After booking the train, the person will get a QR code which has to be shown to the Ticket Collector while boarding the train.
@@ -13,7 +14,8 @@ All the booking details of the customers will be stored in the database with a u
 
 
 
-Conclusion:
+# Features:
+
 /Using the Web application, a user books a ticket based on the availability of the seats by giving the general required information.
 
 Once a user clicks on the submit button, a QR code is generated with a Unique ID and the data is stored in the Cloudant DB with that Unique ID.
